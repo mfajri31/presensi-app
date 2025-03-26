@@ -1,0 +1,5 @@
+@media screen and (min-width: 350px) and (max-width: 800px)  {
+    .login-box {
+        margin-top: -50px;
+    }
+}
