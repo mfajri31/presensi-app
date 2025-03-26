@@ -18,7 +18,7 @@
     <link rel="shortcut icon" href="{{ asset('img/attendance.ico') }}" type="image/x-icon">
 </head>
 
-<body class="hold-transition login-page bg-navy">
+<body class="hold-transition login-page bg-dark">
 
     <div class="login-box bg-info pt-2">
         <div class="login-logo">
